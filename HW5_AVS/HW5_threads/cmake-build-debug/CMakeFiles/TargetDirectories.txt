@@ -1,3 +1,0 @@
-C:/Users/lalka/Desktop/HW5_AVS/HW5_threads/cmake-build-debug/CMakeFiles/HW5_threads.dir
-C:/Users/lalka/Desktop/HW5_AVS/HW5_threads/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lalka/Desktop/HW5_AVS/HW5_threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
